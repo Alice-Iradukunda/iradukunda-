@@ -1,0 +1,32 @@
+.box1{
+	position:absolute;
+	left:30px;
+	top:50px;
+	border:1px solid green;
+	height:100px;
+	width:200px;
+	
+}
+.box2{
+	position:relative;
+	border:3px solid  red;
+	height:200px;
+	width:400px;
+	
+}
+img{
+	height:40%;
+	width:20%;
+	border-radius:50%;
+	position:absolute;
+	right:0%;
+	top:0%;
+}
+.box4{
+	border:5px solid black;
+	height:100px;
+	width:200px;
+	overflow:auto;
+	background-color:MediumSeaGreen;
+	float:right;
+}

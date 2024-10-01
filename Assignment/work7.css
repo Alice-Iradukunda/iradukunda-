@@ -1,0 +1,151 @@
+*{
+	margin:0px;
+}
+.navbar{
+	background-color:LightGray;
+	width:100%;
+	height:90px;
+	border: black;
+	border-style:solid ;
+}
+.navbar ul li{
+	float:left;
+	display:inline-block;
+	padding:10px;
+}	
+.nav ol li{
+	float:right;
+	display:inline-block;
+	padding:10px;
+}
+a:hover{
+	background-color:skyblue;
+}
+.first{
+	background-color:LightGray;
+	width:100%;
+	height:600px;
+	border: black;
+	border-style:solid ;
+    text-transform:uppercase;
+	text-align:center;
+}
+h1{
+	text-transform:lowercase;
+	font-family:lucida handwriting;
+	color:blue;
+}
+h3{
+	text-decoration:underline;
+	font-style:italic;
+}
+img{
+   float:left;
+	height:5%;
+	width:3%;
+	background-image:ulr("ruth.JPG");
+	border-radius:20%;
+	position:absolute;
+	top:0%;
+}
+.pic img{
+	position:absolute;
+	width:20%;
+	height:60%;
+	margin-left:40%;
+	margin-top:19%;
+	border-radius:50%;
+	background-image:ulr("ruth.JPG");
+
+}
+.second{
+	background-color:#001a1a;
+    font-size:32px;	
+	border-radius:12px;
+	padding:12px;
+	color:white;
+	text-align:center;
+	
+}
+.third{
+	width:100%;
+	height:400px;
+	border: black;
+	border-style:solid;
+	background-color:LightGray;
+	
+}
+.third ul{
+	list-style-type: square;
+	background-color:white;
+}
+.third ol{
+	background-color:white;
+	list-style-type:none;
+}
+table,th,td{
+	border-collapse:collapse;
+	width:35%;
+
+}
+.fouth{
+	background-color:LightGray;
+	border: black;
+	width:100%;
+	height:300px;
+	border-style:solid;
+}
+th.{
+	background-color:green;
+}
+th,td{
+	text-align:left;
+	padding:8px;
+}
+tr:nth-child(even){
+	background-color:blue;
+	color:white;
+}
+a{
+	text-decoration:none;
+    font-size:12px;	
+	color:black;
+	font-size:20%;
+	 font-family: Arial, Helvetica, sans-serif;
+}
+.five{
+	background-color:LightGray;
+	border: black;
+	width:100%;
+	height:400px;
+	border-style:solid;
+}
+th.{
+	background-color:green;
+}
+th,td{
+	text-align:left;
+	padding:8px;
+}
+tr:nth-child(even){
+	background-color:blue;
+	color:white;
+}
+a{
+	text-decoration:none;
+    font-size:12px;	
+	color:white;
+}
+.seven{
+	background-color:MediumSeaGreen;
+	position:fixed;
+	left:12px;
+	border:solid;
+}
+.box{
+	background-color:LightGray;
+	border: black;
+	height:400px;
+	border-style:solid;
+}
+
